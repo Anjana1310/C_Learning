@@ -1,0 +1,10 @@
+#include<studio.h>
+int main()
+{
+int a,b,c;
+a=5;
+b=4;
+c=a+b;
+Printf("Addition of two nos is :,\n");
+}
+
